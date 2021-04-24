@@ -1,0 +1,3 @@
+Edad30
+Nombremiguel
+El textareaEdad:30Nombre:miguel
